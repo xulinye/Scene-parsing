@@ -1,0 +1,10 @@
+# .gitignore
+*.pyc
+__pycache__/
+upsnet/
+build/
+work_dirs/
+data/
+*eggs/
+*egg-info/
+README_bck.md
